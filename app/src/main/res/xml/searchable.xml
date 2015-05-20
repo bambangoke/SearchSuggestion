@@ -1,0 +1,5 @@
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="appname"
+    android:hint="enter name"
+    android:searchSuggestThreshold="3"
+    android:includeInGlobalSearch="true"/>
